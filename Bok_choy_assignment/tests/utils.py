@@ -98,3 +98,21 @@ class UtilsTest(HelpersTest):
         self.errors_and_correct_input_values_helper(wrong_pattern_error=True)
         self.utility_page.click_next_button()
         self.recorded_response.wait_for_page()
+
+    def write_all_correct_answers_for_wrong_qs_in_csv(self):
+        """
+        This loop will iterate over all sections to collect correct answers and submit into a csv file
+        """
+        # from nose.tools import set_trace; set_trace()
+        my_csv_file = open("output_csv", "w")
+        for form_card_ind in range(2, 5):
+            for div_ind in range(2, 4):
+                question_title = self.score_page.find_all_grading_questions_title(form_card_ind, div_ind)
+                print question_title
+                answers_list = self.score_page.find_all_correct_answers_from_each_section(form_card_ind, div_ind)
+                print answers_list
+                if len(answers_list):
+                    my_csv_file.write('Q: ' + str(question_title[0]) + "\n")
+                    for each in answers_list:
+                        print each
+                        my_csv_file.write(str(each) + "\n")

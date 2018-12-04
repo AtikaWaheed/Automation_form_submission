@@ -26,3 +26,4 @@ class TestCompleteCycle(UtilsTest):
         self.score_page.wait_for_page()
         total_score_get = self.score_page.get_total_points()
         print "Got " + total_score_get[0] + " points."
+        self.write_all_correct_answers_for_wrong_qs_in_csv()
