@@ -9,8 +9,11 @@ class TestCompleteCycle(UtilsTest):
 
     def test_successfully_submission_of_all_pages(self):
         """
-        This function would test all pages
-        Print 'Final score' you get
+        -Successfully LoggedIn
+        -Submission of complete 9 pages form
+        -Note down the total score you got(Print status)
+        -Note down all correct answers from final feedback response
+        -Submit all questions with all correct answers in a csv file
         """
         self.successfully_loggedIn(USER_EMAIL, USER_PWD)
         self.first_page_execution()
