@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b07f3769-968c-48e2-a3c8-d365ec172010" name="Default Changelist" comment="Initial">
+      <change beforePath="$PROJECT_DIR$/Bok_choy_assignment/tests/test_complete_cycle_of_pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bok_choy_assignment/tests/test_complete_cycle_of_pages.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-312855479">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="log" value="1" />
+          <entry key="output_csv" value="1" />
+          <entry key="py" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="py" value="2367" />
+          <entry key="txt" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="51" />
+          <entry key="Python" value="2367" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/constants.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="103" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/tests/test_complete_cycle_of_pages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="30" column="54" lean-forward="true" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/tests/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1717">
+              <caret line="101" column="8" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/score_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+                <marker date="1543920908118" expanded="true" signature="130:131" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/first_page.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/constants.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/eighth_page.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/fifth_page.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/fourth_page.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/landing_page.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/login_page.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/ninth_page.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/pages_helper.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/recorded_response.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/second_page.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/seventh_page.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/sixth_page.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/third_page.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/utility.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/tests/dictionaries.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/tests/helpers.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/tests/utils.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/pages/score_page.py" />
+        <option value="$PROJECT_DIR$/Bok_choy_assignment/tests/test_complete_cycle_of_pages.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="117" />
+    <option name="y" value="12" />
+    <option name="width" value="294" />
+    <option name="height" value="306" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Form_submission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Form_submission" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Form_submission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Form_submission" type="462c0819:PsiDirectoryNode" />
+              <item name="Bok_choy_assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Form_submission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Form_submission" type="462c0819:PsiDirectoryNode" />
+              <item name="Bok_choy_assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Form_submission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Form_submission" type="462c0819:PsiDirectoryNode" />
+              <item name="Bok_choy_assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../the-lab" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Nosetests for Bok_choy_assignment.tests.test_complete_cycle_of_pages.TestCompleteCycle.test_successfully_submission_of_all_pages" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="Form_submission" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="useremail" value="atika.waheed@arbisoft.com" />
+        <env name="userpassword" value="03044400510" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Bok_choy_assignment.tests.test_complete_cycle_of_pages.TestCompleteCycle.test_successfully_submission_of_all_pages&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Form_submission" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Nosetests for Bok_choy_assignment.tests.test_complete_cycle_of_pages.TestCompleteCycle.test_successfully_submission_of_all_pages" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b07f3769-968c-48e2-a3c8-d365ec172010" name="Default Changelist" comment="" />
+      <created>1543311393194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543311393194</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <created>1543577742565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543577742565</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Addition of some functions">
+      <created>1543921385389</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543921385389</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial">
+      <created>1543921454258</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543921454258</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_for_Bok_choy_assignment_tests_test_complete_cycle_of_pages_TestCompleteCycle_test_successfully_submission_of_all_pages - 2018.11.28 at 16h 13m 15s.xml">
+      <configuration name="Nosetests for Bok_choy_assignment.tests.test_complete_cycle_of_pages.TestCompleteCycle.test_successfully_submission_of_all_pages" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_Bok_choy_assignment_tests_test_complete_cycle_of_pages_TestCompleteCycle_test_successfully_submission_of_all_pages - 2018.11.28 at 16h 19m 46s.xml">
+      <configuration name="Nosetests for Bok_choy_assignment.tests.test_complete_cycle_of_pages.TestCompleteCycle.test_successfully_submission_of_all_pages" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_Bok_choy_assignment_tests_test_complete_cycle_of_pages_TestCompleteCycle_test_successfully_submission_of_all_pages - 2018.11.28 at 16h 20m 13s.xml">
+      <configuration name="Nosetests for Bok_choy_assignment.tests.test_complete_cycle_of_pages.TestCompleteCycle.test_successfully_submission_of_all_pages" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_Bok_choy_assignment_tests_test_complete_cycle_of_pages_TestCompleteCycle_test_successfully_submission_of_all_pages - 2018.11.28 at 16h 36m 31s.xml">
+      <configuration name="Nosetests for Bok_choy_assignment.tests.test_complete_cycle_of_pages.TestCompleteCycle.test_successfully_submission_of_all_pages" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_Bok_choy_assignment_tests_test_complete_cycle_of_pages_TestCompleteCycle_test_successfully_submission_of_all_pages - 2018.11.28 at 16h 44m 43s.xml">
+      <configuration name="Nosetests for Bok_choy_assignment.tests.test_complete_cycle_of_pages.TestCompleteCycle.test_successfully_submission_of_all_pages" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_Bok_choy_assignment_tests_test_complete_cycle_of_pages_TestCompleteCycle_test_successfully_submission_of_all_pages - 2018.11.28 at 17h 01m 21s.xml">
+      <configuration name="Nosetests for Bok_choy_assignment.tests.test_complete_cycle_of_pages.TestCompleteCycle.test_successfully_submission_of_all_pages" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_Bok_choy_assignment_tests_test_complete_cycle_of_pages_TestCompleteCycle_test_successfully_submission_of_all_pages - 2018.11.29 at 16h 14m 34s.xml">
+      <configuration name="Nosetests for Bok_choy_assignment.tests.test_complete_cycle_of_pages.TestCompleteCycle.test_successfully_submission_of_all_pages" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_Bok_choy_assignment_tests_test_complete_cycle_of_pages_TestCompleteCycle_test_successfully_submission_of_all_pages - 2018.11.29 at 16h 16m 16s.xml">
+      <configuration name="Nosetests for Bok_choy_assignment.tests.test_complete_cycle_of_pages.TestCompleteCycle.test_successfully_submission_of_all_pages" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_Bok_choy_assignment_tests_test_complete_cycle_of_pages_TestCompleteCycle_test_successfully_submission_of_all_pages - 2018.11.29 at 16h 43m 29s.xml">
+      <configuration name="Nosetests for Bok_choy_assignment.tests.test_complete_cycle_of_pages.TestCompleteCycle.test_successfully_submission_of_all_pages" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_Bok_choy_assignment_tests_test_complete_cycle_of_pages_TestCompleteCycle_test_successfully_submission_of_all_pages - 2018.12.04 at 15h 56m 26s.xml">
+      <configuration name="Nosetests for Bok_choy_assignment.tests.test_complete_cycle_of_pages.TestCompleteCycle.test_successfully_submission_of_all_pages" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23131956" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1722913" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2455516" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23211446" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.11209965" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2455516" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/Automation_form_submission" />
+    </ignored-roots>
+    <MESSAGE value="Addition of some functions" />
+    <MESSAGE value="Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/bok_choy/browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4675">
+          <caret line="282" selection-start-line="282" selection-end-line="282" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/bok_choy/promise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/bok_choy/web_app_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/eighth_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/fifth_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/first_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/fourth_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/landing_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/ninth_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/pages_helper.py" />
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/recorded_response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/second_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/seventh_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/sixth_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/third_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/utility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/tests/dictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="32" column="78" selection-start-line="32" selection-start-column="78" selection-end-line="32" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/tests/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-302">
+          <caret line="72" column="52" selection-start-line="72" selection-start-column="52" selection-end-line="72" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/tests/test_login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output_csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="103" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/tests/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="8" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/pages/score_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <marker date="1543920908118" expanded="true" signature="130:131" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bok_choy_assignment/tests/test_complete_cycle_of_pages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="30" column="54" lean-forward="true" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
